@@ -7,7 +7,7 @@ h3{
     margin: 100;
 }
 a{
-    color:rgb(116, 22, 204);
+    color:rgb(17, 235, 10);
     font-size: 24px;
     text-decoration: none;
     padding: 20px;
@@ -15,7 +15,7 @@ a{
  header{
     background-color: rgb(5, 5, 211);
     padding:0;
-    color: rgb(165, 42, 42);
+    color: rgb(255, 196, 0);
     margin:0;
     text-align: center;
     display: flex;
@@ -31,7 +31,18 @@ padding: 18;
 background-color: rgb(243, 225, 203);
 margin: 100;
 }
+
+.segundo-titulo{color: rgb(0, 0, 0);
+    text-align: left;
+    padding: 18;
+    background-color: rgb(243, 225, 203);
+    margin: 100;
+}
+
 a:hover{
     color: rgb(107, 42, 42);
     text-decoration: underline;
+}
+section{
+    display: flex;
 }
